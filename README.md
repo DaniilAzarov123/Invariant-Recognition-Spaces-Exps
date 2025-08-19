@@ -49,4 +49,5 @@ To counterbalance the 2-AFC task - because there are always two items from each 
 |<img src="Exp1/4afc/resources/replacementbulb2.jpg" width="100"/>|<img src="Exp1/4afc/resources/stingray-leather-hobo-handbag-1.jpg" width="100"/>|<img src="Exp1/4afc/resources/lightbulb28.jpg" width="100"/>|<img src="Exp1/4afc/resources/AHANDBAG6.jpg" width="100"/>|<img src="Exp1/4afc/resources/stingray-leather-hobo-handbag-1.jpg" width="100"/><img src="Exp1/4afc/resources/lightbulb28.jpg" width="100"/><img src="Exp1/4afc/resources/AHANDBAG6.jpg" width="100"/>|
 |...        | ...       | ...      | ...      | ...      |
 
-To run an experiment for demonstration purposes, you can download it to your local machine and then upload to your own Pavlovia account, or simply clone the repository to your GitLab.
+# Run Experiment
+To run an experiment for demonstration purposes, you can either download it to your local machine and upload it to your own Pavlovia account, or simply clone the repository to your GitLab. Note that some additional files will be generated automatically by Pavlovia; without these files, the experiments may not run correctly.
