@@ -1,6 +1,6 @@
 # Invariant Recognition Spaces Experiments
 
-*** If you accessed this repository through OSF, feel free to visit it directly on GitHub for better readability and navigation: https://github.com/DaniilAzarov123/Invariant-Recognition-Spaces-Exps.
+*** **If you accessed this repository through OSF**, feel free to visit it directly on GitHub for better readability and navigation: https://github.com/DaniilAzarov123/Invariant-Recognition-Spaces-Exps.
 
 This repository contains the files used to run experiments for **Invariant recognition memory spaces for real-world objects revealed with signal-detection analysis** by Igor Utochkin (University of Chicago, IL, USA),  Daniil Azarov (Indiana University Bloomington, IN, USA), & Daniil Grigorev (Koç University, Turkiye).
 
